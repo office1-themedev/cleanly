@@ -1,0 +1,12 @@
+boi.walle.modal_progress_hud_nsn-jetified-window-1.0.0-beta04-0 C:\Users\IT BD\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+boi.walle.modal_progress_hud_nsn-jetified-annotation-experimental-1.1.0-1 C:\Users\IT BD\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+boi.walle.modal_progress_hud_nsn-core-1.6.0-2 C:\Users\IT BD\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+boi.walle.modal_progress_hud_nsn-jetified-window-java-1.0.0-beta04-3 C:\Users\IT BD\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+boi.walle.modal_progress_hud_nsn-main-4 C:\Users\IT BD\AppData\Local\Pub\Cache\hosted\pub.dev\modal_progress_hud_nsn-0.4.0\android\src\main\res
+boi.walle.modal_progress_hud_nsn-release-5 C:\Users\IT BD\AppData\Local\Pub\Cache\hosted\pub.dev\modal_progress_hud_nsn-0.4.0\android\src\release\res
+boi.walle.modal_progress_hud_nsn-pngs-6 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\generated\res\pngs\release
+boi.walle.modal_progress_hud_nsn-resValues-7 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\generated\res\resValues\release
+boi.walle.modal_progress_hud_nsn-rs-8 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\generated\res\rs\release
+boi.walle.modal_progress_hud_nsn-mergeReleaseResources-9 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\intermediates\incremental\release\mergeReleaseResources\merged.dir
+boi.walle.modal_progress_hud_nsn-mergeReleaseResources-10 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+boi.walle.modal_progress_hud_nsn-merged_res-11 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\intermediates\merged_res\release

@@ -1,0 +1,15 @@
+net.themedev.cleanly_dashboard.app-jetified-window-1.0.0-beta04-0 C:\Users\IT BD\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+net.themedev.cleanly_dashboard.app-jetified-security-crypto-1.1.0-alpha06-1 C:\Users\IT BD\.gradle\caches\transforms-3\2dd5e7ab9230030ff78143f5215ea597\transformed\jetified-security-crypto-1.1.0-alpha06\res
+net.themedev.cleanly_dashboard.app-jetified-annotation-experimental-1.1.0-2 C:\Users\IT BD\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+net.themedev.cleanly_dashboard.app-core-1.6.0-3 C:\Users\IT BD\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+net.themedev.cleanly_dashboard.app-jetified-window-java-1.0.0-beta04-4 C:\Users\IT BD\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+net.themedev.cleanly_dashboard.app-debug-5 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\android\app\src\debug\res
+net.themedev.cleanly_dashboard.app-main-6 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\android\app\src\main\res
+net.themedev.cleanly_dashboard.app-pngs-7 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\app\generated\res\pngs\debug
+net.themedev.cleanly_dashboard.app-resValues-8 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\app\generated\res\resValues\debug
+net.themedev.cleanly_dashboard.app-rs-9 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\app\generated\res\rs\debug
+net.themedev.cleanly_dashboard.app-mergeDebugResources-10 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+net.themedev.cleanly_dashboard.app-mergeDebugResources-11 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+net.themedev.cleanly_dashboard.app-merged_res-12 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\app\intermediates\merged_res\debug
+net.themedev.cleanly_dashboard.app-packaged_res-13 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\flutter_secure_storage\intermediates\packaged_res\debug
+net.themedev.cleanly_dashboard.app-packaged_res-14 C:\Users\IT BD\StudioProjects\Cleanly_Dashboard\build\modal_progress_hud_nsn\intermediates\packaged_res\debug

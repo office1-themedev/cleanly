@@ -1,0 +1,4 @@
+#Thu Sep 14 14:39:21 BDT 2023
+base.0=C\:\\Users\\IT BD\\StudioProjects\\Cleanly_Dashboard\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
