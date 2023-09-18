@@ -311,7 +311,7 @@ class _CleanlyDashboardState extends State<CleanlyDashboard>{
       getWays = getwayData['data'];
     }
     String  quantity='';
-    Future.delayed(Durations.short1,(){quantity = SplitString(totalTitle,': ')[1].toString();});
+    Future.delayed(Duration(seconds: 1),(){quantity = SplitString(totalTitle,': ')[1].toString();});
     List totalOrder = SplitString(totalTitle,': ');
     List totalIncome = SplitString(incomeTitle,': ');
 
